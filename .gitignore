@@ -5,4 +5,8 @@ __pycache__/
 data/*.pdf
 .DS_Store
 *.csv
-*_candidates.csv
+*_candidates.
+data/*.xlsx
+data/*_labeled.csv
+data/*.xlsx
+data/*_to_label.csv
